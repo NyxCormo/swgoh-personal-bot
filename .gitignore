@@ -1,3 +1,12 @@
+# Repo swgoh-comlink (used as reference)
+swgoh-comlink/
+
+# Google credentials
+swgoh-sheet-bot-30feef5191ac.json
+
+# Temp
+data.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,6 +139,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.venv/
 env/
 venv/
 ENV/
